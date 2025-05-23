@@ -13,7 +13,7 @@
 ## 一、1.https://conversations.im/ 2.https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/ 
 ## 二、在资料库下载
 # 第二步：创建账号 
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程1k.jpg）
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/files/教程图片/教程1k.jpg)
 # 1.选择“创建账号”
 
 # 2.输入名称与服务器
