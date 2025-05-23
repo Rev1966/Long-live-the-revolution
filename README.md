@@ -54,11 +54,11 @@
 # 加入中革社——加入革命的行列！ 加入我们组织！我们急需更多同志加入，加入我们的革命机器，为中国的新革命添砖加瓦，集结在马列毛主义的大旗下！
 ![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程15k.jpg)
 # 加入方法： 添加审核员账户 
-点击添加联系人后在xmpp地址中输入审核员ID
-审核员ID如下：
-曹闯民@conversations.im
-绿林@jabber.fr
-
+### 点击添加联系人后在xmpp地址中输入审核员ID
+### 审核员ID如下：
+### 曹闯民@conversations.im
+### 绿林@jabber.fr
+### （审核员一般中午和晚上上线，如果超过24小时没有回复，请尝试添加其他账户）
 
 
 
