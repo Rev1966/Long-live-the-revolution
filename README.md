@@ -15,7 +15,7 @@
 # 第二步：创建账号 
 ![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程1k.jpg)
 # 1.选择“创建账号”
-
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程2.1.1.jpg)
 # 2.输入名称与服务器
 # 服务器一览表：https://compliance.conversations.im/
 # 建议同志们多多更换服务器以达到去中心化的目的
