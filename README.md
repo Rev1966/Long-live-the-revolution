@@ -37,21 +37,21 @@
 # 第一步：下载Gajim 下载链接：https://gajim.org/download/
 # 第二步：创建账户
 # 1.单击注册，注册界面输入用户名及服务器名后点注册即可
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程10k.jpg)
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程10k.png)
 # 2.输入用户名和服务器名
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程11k.jpg)
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程11k.png)
 # 第三步：进群方式 # 单击左上角，下拉列表中选择账号，后选择添加联系人
 # 1.点击“账号”按钮
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程12k.jpg)
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程12k.png)
 # 2.点击“添加联系人 ”
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程13k.jpg)
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程13k.png)
 # 最后在添加联系人对话框中输入总群地址：xmpp:马列毛主义墙内总群@muc.xmpp.earth
 # 3.单击后下一步加入即可
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程14k.jpg)
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程14k.png)
 # 最后附上网页端链接: https://conversejs.org/fullscreen.html
 # 网页端操作流程基本一致
 # 加入中革社——加入革命的行列！ 加入我们组织！我们急需更多同志加入，加入我们的革命机器，为中国的新革命添砖加瓦，集结在马列毛主义的大旗下！
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程15k.jpg)
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程15k.png)
 # 加入方法： 添加审核员账户 
 点击添加联系人后在xmpp地址中输入审核员ID
 审核员ID如下：
