@@ -10,7 +10,8 @@
 # 欢迎一切愿意革命的同志加入我们！
 # 移动客户端推荐： 
 ## 下载途径：
-## 一、1.https://conversations.im/ 2.https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/ 
+## 一、1.https://conversations.im/ 
+## 2.https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/ 
 ## 二、在资料库下载
 # 第二步：创建账号 
 ![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程1k.jpg)
