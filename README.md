@@ -8,7 +8,8 @@
 ## 刊物下载链接：https://github.com/Rev1966/Rebellion-is-justified
 # 以下是加入频道的方法
 # 欢迎一切愿意革命的同志加入我们！
-# 安安卓客户端推荐： 
+# 安卓客户端推荐：
+## 或者monocles chat
 ## 下载途径：
 ## 一、1.https://conversations.im/ 
 ## 2.https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/ 
