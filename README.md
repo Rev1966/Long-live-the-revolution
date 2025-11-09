@@ -26,14 +26,12 @@
 # 第三步：加入群聊/频道 
 # 1.1.点击“加入公开频道”按钮
 ![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程5k.jpg)
-# 1.2.在XMPP地址一栏中输入“马列毛主义墙内总群@muc.xmpp.earth”后，点击加入即可
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程6k.jpg)
-# 2.1.或者点击发现在搜索框中“ 马列毛主义墙内总群” 后搜索即可
+# 1.2.在XMPP地址一栏中输入“mlm1966-rebelle-revolution@muc.xmpp.earth”后，点击加入即可
+# 2.1.或者点击发现在搜索框中“ 造革社-马列毛主义革命交流群” 后搜索即可
 ![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程7k.jpg)
 # 2.2点击搜索按钮
 ![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程8k.jpg)
-# 2.3点击加入“马列毛主义墙内总群”
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程9k.jpg)
+# 2.3点击加入“造革社-马列毛主义革命交流群”
 # 电脑客户端推荐：
 # 第一步：下载Gajim 下载链接：https://gajim.org/download/
 # 第二步：创建账户
@@ -52,12 +50,13 @@
 # 最后附上网页端链接: https://conversejs.org/fullscreen.html
 # 网页端操作流程基本一致
 # 加入造革社——加入革命的行列！ 加入我们组织！我们急需更多同志加入，加入我们的革命机器，为中国的新革命添砖加瓦，集结在马列毛主义的大旗下！
-![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程15k.jpg)
+
 # 加入方法： 添加客服账户 
+![image](https://github.com/Rev1966/Long-live-the-revolution/blob/main/教程图片/教程15k.jpg)
 ### 点击添加联系人后在xmpp地址中输入审核员ID
 ### 审核员ID如下：
-### saki客服酱@yax.im
 ### 
+### saki_bot@xmpp.jp
 ### （审核员一般中午和晚上上线，如果超过24小时没有回复，请尝试添加其他账户）
 
 
